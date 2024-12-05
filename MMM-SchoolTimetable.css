@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.5em;
+    color: white;
+}
+
+td {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+td:first-child {
+    font-weight: bold;
+    text-align: left;
+}
